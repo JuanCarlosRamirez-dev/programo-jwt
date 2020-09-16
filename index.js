@@ -1,5 +1,3 @@
-//const { request } = require("express");
-//agregar express, body-parser, jsonwebtoken, express-jwt
 const express = require("express"),
       bodyParser = require("body-parser"),
       jwt = require("jsonwebtoken"),
